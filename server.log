@@ -1,0 +1,927 @@
+--- Script Started: 2025年 04月 21日 星期一 17:01:01 CST ---
+
+--- SUCCESSFUL Run 1 (Attempt 1) Server Output (PID: 664938, Exit: 0) ---
+server_seq:1 2 3 0 4 5 6 7 
+The server4 base ot time is 614.001 ms
+The server1 base ot time is 591.788 ms
+The server2 base ot time is 661.891 ms
+The server0 base ot time is 619.457 ms
+The server5 base ot time is 669.191 ms
+The server3 base ot time is 579.208 ms
+The server6 base ot time is 574.241 ms
+The server7 base ot time is 628.411 ms
+The server 7oprf2 time is 45.9087 ms
+The server 7 base ot time is 433.681 ms
+The server 0oprf2 time is 48.2172 ms
+The server 0 base ot time is 455.764 ms
+sum_center is3311014883039593308
+sum_leader is : 15135729190669961911
+i is0
+XXXXXXXXXbase ots libote2 is 455.764
+i is1
+XXXXXXXXXbase ots libote2 is 455.764
+i is2
+XXXXXXXXXbase ots libote2 is 455.764
+i is3
+XXXXXXXXXbase ots libote2 is 455.764
+i is4
+XXXXXXXXXbase ots libote2 is 455.764
+i is5
+XXXXXXXXXbase ots libote2 is 455.764
+i is6
+XXXXXXXXXbase ots libote2 is 455.764
+i is7
+XXXXXXXXXbase ots libote2 is 889.446
+the final oprf2 is 47.0629
+the final base ots libote is 617.274
+the final base ots libote2 is 444.723
+the contexts[0].times.psm time is 1206.69
+the contexts[n-1].times.psm time is 1205.84
+Time for vrf 0 ms
+Time for OPRF1 54.7739 ms
+Time for OPRF2 47.0629 ms
+Time for hint computation 0.0618572 ms
+Timing for PSM 1206.27 ms
+Total runtime 1206.35 ms
+Total runtime w/o base OTs:144.27 ms
+--- End Run 1 Server ---
+
+--- FAILED Attempt 2 Server Output (PID: 665541, Exit: 9) ---
+--- End FAILED Attempt 2 Server ---
+
+--- SUCCESSFUL Run 2 (Attempt 3) Server Output (PID: 666089, Exit: 0) ---
+server_seq:1 2 3 4 0 5 7 6 
+The server5 base ot time is 625.143 ms
+The server0 base ot time is 584.146 ms
+The server1 base ot time is 662.936 ms
+The server3 base ot time is 619.579 ms
+The server4 base ot time is 603.545 ms
+The server2 base ot time is 672.115 ms
+The server6 base ot time is 552.284 ms
+The server7 base ot time is 713.884 ms
+The server 7oprf2 time is 28.8679 ms
+The server 7 base ot time is 432.878 ms
+The server 0oprf2 time is 179.627 ms
+The server 0 base ot time is 432.452 ms
+sum_leader is : 5121393367579704497
+sum_center is13325350706129850722
+i is0
+XXXXXXXXXbase ots libote2 is 432.452
+i is1
+XXXXXXXXXbase ots libote2 is 432.452
+i is2
+XXXXXXXXXbase ots libote2 is 432.452
+i is3
+XXXXXXXXXbase ots libote2 is 432.452
+i is4
+XXXXXXXXXbase ots libote2 is 432.452
+i is5
+XXXXXXXXXbase ots libote2 is 432.452
+i is6
+XXXXXXXXXbase ots libote2 is 432.452
+i is7
+XXXXXXXXXbase ots libote2 is 865.33
+the final oprf2 is 104.248
+the final base ots libote is 629.204
+the final base ots libote2 is 432.665
+the contexts[0].times.psm time is 1345.66
+the contexts[n-1].times.psm time is 1353.83
+Time for vrf 0 ms
+Time for OPRF1 48.8459 ms
+Time for OPRF2 104.248 ms
+Time for hint computation 0.103906 ms
+Timing for PSM 1349.75 ms
+Total runtime 1349.85 ms
+Total runtime w/o base OTs:287.876 ms
+--- End Run 2 Server ---
+
+--- SUCCESSFUL Run 3 (Attempt 4) Server Output (PID: 666689, Exit: 0) ---
+server_seq:0 7 1 2 3 4 5 6 
+The server5 base ot time is 622.077 ms
+The server1 base ot time is 626.815 ms
+The server7 base ot time is 566.403 ms
+The server0 base ot time is 609.348 ms
+The server2 base ot time is 643.966 ms
+The server4 base ot time is 625.149 ms
+The server3 base ot time is 646.122 ms
+The server6 base ot time is 613.597 ms
+The server 0oprf2 time is 90.9522 ms
+The server 0 base ot time is 433.315 ms
+The server 7oprf2 time is 121.907 ms
+The server 7 base ot time is 433.285 ms
+sum_leader is : 7102821713205027766
+sum_center is11343922360504527453
+i is0
+XXXXXXXXXbase ots libote2 is 433.315
+i is1
+XXXXXXXXXbase ots libote2 is 433.315
+i is2
+XXXXXXXXXbase ots libote2 is 433.315
+i is3
+XXXXXXXXXbase ots libote2 is 433.315
+i is4
+XXXXXXXXXbase ots libote2 is 433.315
+i is5
+XXXXXXXXXbase ots libote2 is 433.315
+i is6
+XXXXXXXXXbase ots libote2 is 433.315
+i is7
+XXXXXXXXXbase ots libote2 is 866.6
+the final oprf2 is 106.429
+the final base ots libote is 619.185
+the final base ots libote2 is 433.3
+the contexts[0].times.psm time is 1249.09
+the contexts[n-1].times.psm time is 1247.44
+Time for vrf 0 ms
+Time for OPRF1 43.6978 ms
+Time for OPRF2 106.429 ms
+Time for hint computation 0.0649648 ms
+Timing for PSM 1248.26 ms
+Total runtime 1248.31 ms
+Total runtime w/o base OTs:195.779 ms
+--- End Run 3 Server ---
+
+--- SUCCESSFUL Run 4 (Attempt 5) Server Output (PID: 667274, Exit: 0) ---
+server_seq:1 2 0 3 4 5 6 7 
+The server5 base ot time is 629.837 ms
+The server7 base ot time is 626.346 ms
+The server1 base ot time is 623.418 ms
+The server6 base ot time is 584.986 ms
+The server0 base ot time is 555.601 ms
+The server4 base ot time is 597.093 ms
+The server2 base ot time is 649.18 ms
+The server3 base ot time is 695.947 ms
+The server 0oprf2 time is 11.8168 ms
+The server 0 base ot time is 433.246 ms
+The server 7oprf2 time is 142.264 ms
+The server 7 base ot time is 434.331 ms
+sum_center is10322644485775775465
+sum_leader is : 8124099587933779754
+i is0
+XXXXXXXXXbase ots libote2 is 433.246
+i is1
+XXXXXXXXXbase ots libote2 is 433.246
+i is2
+XXXXXXXXXbase ots libote2 is 433.246
+i is3
+XXXXXXXXXbase ots libote2 is 433.246
+i is4
+XXXXXXXXXbase ots libote2 is 433.246
+i is5
+XXXXXXXXXbase ots libote2 is 433.246
+i is6
+XXXXXXXXXbase ots libote2 is 433.246
+i is7
+XXXXXXXXXbase ots libote2 is 867.577
+the final oprf2 is 77.0403
+the final base ots libote is 620.301
+the final base ots libote2 is 433.789
+the contexts[0].times.psm time is 1293.42
+the contexts[n-1].times.psm time is 1286.13
+Time for vrf 0 ms
+Time for OPRF1 57.4963 ms
+Time for OPRF2 77.0403 ms
+Time for hint computation 0.0811415 ms
+Timing for PSM 1289.78 ms
+Total runtime 1289.85 ms
+Total runtime w/o base OTs:235.686 ms
+--- End Run 4 Server ---
+
+--- SUCCESSFUL Run 5 (Attempt 6) Server Output (PID: 667879, Exit: 0) ---
+server_seq:1 2 3 7 4 5 0 6 
+The server5 base ot time is 635.827 ms
+The server1 base ot time is 643.767 ms
+The server2 base ot time is 618.765 ms
+The server0 base ot time is 576.661 ms
+The server4 base ot time is 617.995 ms
+The server3 base ot time is 592.394 ms
+The server6 base ot time is 652.613 ms
+The server7 base ot time is 652.838 ms
+The server 7oprf2 time is 28.0796 ms
+The server 7 base ot time is 452.766 ms
+The server 0oprf2 time is 149.629 ms
+The server 0 base ot time is 435.147 ms
+sum_leader is : 937385435105164491
+sum_center is17509358638604390728
+i is0
+XXXXXXXXXbase ots libote2 is 435.147
+i is1
+XXXXXXXXXbase ots libote2 is 435.147
+i is2
+XXXXXXXXXbase ots libote2 is 435.147
+i is3
+XXXXXXXXXbase ots libote2 is 435.147
+i is4
+XXXXXXXXXbase ots libote2 is 435.147
+i is5
+XXXXXXXXXbase ots libote2 is 435.147
+i is6
+XXXXXXXXXbase ots libote2 is 435.147
+i is7
+XXXXXXXXXbase ots libote2 is 887.913
+the final oprf2 is 88.8544
+the final base ots libote is 623.858
+the final base ots libote2 is 443.957
+the contexts[0].times.psm time is 1295.83
+the contexts[n-1].times.psm time is 1305.02
+Time for vrf 0 ms
+Time for OPRF1 43.5353 ms
+Time for OPRF2 88.8544 ms
+Time for hint computation 0.0950444 ms
+Timing for PSM 1300.42 ms
+Total runtime 1300.52 ms
+Total runtime w/o base OTs:232.61 ms
+--- End Run 5 Server ---
+
+--- SUCCESSFUL Run 6 (Attempt 7) Server Output (PID: 668474, Exit: 0) ---
+server_seq:1 2 0 3 4 5 6 7 
+The server1 base ot time is 481.357 ms
+The server6 base ot time is 629.347 ms
+The server4 base ot time is 651.849 ms
+The server7 base ot time is 653.573 ms
+The server3 base ot time is 564.942 ms
+The server5 base ot time is 669.076 ms
+The server2 base ot time is 600.934 ms
+The server0 base ot time is 679.48 ms
+The server 0oprf2 time is 42.2997 ms
+The server 0 base ot time is 433.226 ms
+The server 7oprf2 time is 178.612 ms
+The server 7 base ot time is 436.273 ms
+sum_center is18184657024873588268
+sum_leader is : 262087048835966951
+i is0
+XXXXXXXXXbase ots libote2 is 433.226
+i is1
+XXXXXXXXXbase ots libote2 is 433.226
+i is2
+XXXXXXXXXbase ots libote2 is 433.226
+i is3
+XXXXXXXXXbase ots libote2 is 433.226
+i is4
+XXXXXXXXXbase ots libote2 is 433.226
+i is5
+XXXXXXXXXbase ots libote2 is 433.226
+i is6
+XXXXXXXXXbase ots libote2 is 433.226
+i is7
+XXXXXXXXXbase ots libote2 is 869.499
+the final oprf2 is 110.456
+the final base ots libote is 616.32
+the final base ots libote2 is 434.749
+the contexts[0].times.psm time is 1316.29
+the contexts[n-1].times.psm time is 1308.62
+Time for vrf 0 ms
+Time for OPRF1 39.134 ms
+Time for OPRF2 110.456 ms
+Time for hint computation 0.0771312 ms
+Timing for PSM 1312.46 ms
+Total runtime 1312.53 ms
+Total runtime w/o base OTs:261.388 ms
+--- End Run 6 Server ---
+
+--- FAILED Attempt 8 Server Output (PID: 669064, Exit: 9) ---
+--- End FAILED Attempt 8 Server ---
+
+--- SUCCESSFUL Run 7 (Attempt 9) Server Output (PID: 669632, Exit: 0) ---
+server_seq:0 1 7 2 3 4 5 6 
+The server2 base ot time is 568.268 ms
+The server7 base ot time is 548.462 ms
+The server0 base ot time is 649.549 ms
+The server1 base ot time is 620.188 ms
+The server6 base ot time is 594.775 ms
+The server3 base ot time is 592.303 ms
+The server4 base ot time is 636.866 ms
+The server5 base ot time is 629.336 ms
+The server 7oprf2 time is 30.8598 ms
+The server 7 base ot time is 433.927 ms
+The server 0oprf2 time is 53.9811 ms
+The server 0 base ot time is 433.713 ms
+sum_center is9494864898607991924
+sum_leader is : 8951879175101563295
+i is0
+XXXXXXXXXbase ots libote2 is 433.713
+i is1
+XXXXXXXXXbase ots libote2 is 433.713
+i is2
+XXXXXXXXXbase ots libote2 is 433.713
+i is3
+XXXXXXXXXbase ots libote2 is 433.713
+i is4
+XXXXXXXXXbase ots libote2 is 433.713
+i is5
+XXXXXXXXXbase ots libote2 is 433.713
+i is6
+XXXXXXXXXbase ots libote2 is 433.713
+i is7
+XXXXXXXXXbase ots libote2 is 867.64
+the final oprf2 is 42.4205
+the final base ots libote is 604.968
+the final base ots libote2 is 433.82
+the contexts[0].times.psm time is 1184.64
+the contexts[n-1].times.psm time is 1175.89
+Time for vrf 0 ms
+Time for OPRF1 58.4511 ms
+Time for OPRF2 42.4205 ms
+Time for hint computation 0.0646284 ms
+Timing for PSM 1180.27 ms
+Total runtime 1180.33 ms
+Total runtime w/o base OTs:141.477 ms
+--- End Run 7 Server ---
+
+--- SUCCESSFUL Run 8 (Attempt 10) Server Output (PID: 670232, Exit: 0) ---
+server_seq:1 2 3 0 4 5 7 6 
+The server6 base ot time is 546.025 ms
+The server1 base ot time is 596.858 ms
+The server4 base ot time is 653.005 ms
+The server7 base ot time is 642.141 ms
+The server0 base ot time is 632.629 ms
+The server3 base ot time is 624.813 ms
+The server5 base ot time is 590.581 ms
+The server2 base ot time is 683.278 ms
+The server 0oprf2 time is 19.3031 ms
+The server 0 base ot time is 434.424 ms
+The server 7oprf2 time is 86.2343 ms
+The server 7 base ot time is 432.622 ms
+sum_leader is : 14258286226404313718
+sum_center is4188457847305241501
+i is0
+XXXXXXXXXbase ots libote2 is 434.424
+i is1
+XXXXXXXXXbase ots libote2 is 434.424
+i is2
+XXXXXXXXXbase ots libote2 is 434.424
+i is3
+XXXXXXXXXbase ots libote2 is 434.424
+i is4
+XXXXXXXXXbase ots libote2 is 434.424
+i is5
+XXXXXXXXXbase ots libote2 is 434.424
+i is6
+XXXXXXXXXbase ots libote2 is 434.424
+i is7
+XXXXXXXXXbase ots libote2 is 867.046
+the final oprf2 is 52.7687
+the final base ots libote is 621.166
+the final base ots libote2 is 433.523
+the contexts[0].times.psm time is 1213.91
+the contexts[n-1].times.psm time is 1214.74
+Time for vrf 0 ms
+Time for OPRF1 43.0753 ms
+Time for OPRF2 52.7687 ms
+Time for hint computation 0.0552619 ms
+Timing for PSM 1214.32 ms
+Total runtime 1214.37 ms
+Total runtime w/o base OTs:159.635 ms
+--- End Run 8 Server ---
+
+--- SUCCESSFUL Run 9 (Attempt 11) Server Output (PID: 670817, Exit: 0) ---
+server_seq:7 1 2 3 4 5 6 0 
+The server3 base ot time is 572.094 ms
+The server7 base ot time is 641.747 ms
+The server4 base ot time is 657.582 ms
+The server5 base ot time is 650.178 ms
+The server6 base ot time is 666.255 ms
+The server0 base ot time is 624.42 ms
+The server2 base ot time is 681.847 ms
+The server1 base ot time is 636.746 ms
+The server 0oprf2 time is 58.1605 ms
+The server 0 base ot time is 432.828 ms
+The server 7oprf2 time is 127.875 ms
+The server 7 base ot time is 433.573 ms
+sum_center is15318667384076139645
+sum_leader is : 3128076689633415574
+i is0
+XXXXXXXXXbase ots libote2 is 432.828
+i is1
+XXXXXXXXXbase ots libote2 is 432.828
+i is2
+XXXXXXXXXbase ots libote2 is 432.828
+i is3
+XXXXXXXXXbase ots libote2 is 432.828
+i is4
+XXXXXXXXXbase ots libote2 is 432.828
+i is5
+XXXXXXXXXbase ots libote2 is 432.828
+i is6
+XXXXXXXXXbase ots libote2 is 432.828
+i is7
+XXXXXXXXXbase ots libote2 is 866.401
+the final oprf2 is 93.0175
+the final base ots libote is 641.359
+the final base ots libote2 is 433.2
+the contexts[0].times.psm time is 1280.4
+the contexts[n-1].times.psm time is 1273.03
+Time for vrf 0 ms
+Time for OPRF1 26.2425 ms
+Time for OPRF2 93.0175 ms
+Time for hint computation 0.0858322 ms
+Timing for PSM 1276.71 ms
+Total runtime 1276.79 ms
+Total runtime w/o base OTs:202.154 ms
+--- End Run 9 Server ---
+
+--- SUCCESSFUL Run 10 (Attempt 12) Server Output (PID: 671423, Exit: 0) ---
+server_seq:0 7 1 2 3 4 5 6 
+The server2 base ot time is 590.446 ms
+The server3 base ot time is 638.526 ms
+The server1 base ot time is 645.231 ms
+The server4 base ot time is 634.097 ms
+The server7 base ot time is 654.523 ms
+The server0 base ot time is 613.786 ms
+The server6 base ot time is 573.142 ms
+The server5 base ot time is 701.612 ms
+The server 7oprf2 time is 19.3293 ms
+The server 7 base ot time is 431.806 ms
+The server 0oprf2 time is 94.278 ms
+The server 0 base ot time is 453.431 ms
+sum_leader is : 11732883160409308680
+sum_center is6713860913300246539
+i is0
+XXXXXXXXXbase ots libote2 is 453.431
+i is1
+XXXXXXXXXbase ots libote2 is 453.431
+i is2
+XXXXXXXXXbase ots libote2 is 453.431
+i is3
+XXXXXXXXXbase ots libote2 is 453.431
+i is4
+XXXXXXXXXbase ots libote2 is 453.431
+i is5
+XXXXXXXXXbase ots libote2 is 453.431
+i is6
+XXXXXXXXXbase ots libote2 is 453.431
+i is7
+XXXXXXXXXbase ots libote2 is 885.236
+the final oprf2 is 56.8037
+the final base ots libote is 631.42
+the final base ots libote2 is 442.618
+the contexts[0].times.psm time is 1267.75
+the contexts[n-1].times.psm time is 1276.08
+Time for vrf 0 ms
+Time for OPRF1 38.4338 ms
+Time for OPRF2 56.8037 ms
+Time for hint computation 0.105091 ms
+Timing for PSM 1271.92 ms
+Total runtime 1272 ms
+Total runtime w/o base OTs:197.877 ms
+--- End Run 10 Server ---
+
+--- SUCCESSFUL Run 11 (Attempt 13) Server Output (PID: 672020, Exit: 0) ---
+server_seq:7 1 2 3 0 4 5 6 
+The server4 base ot time is 617.345 ms
+The server5 base ot time is 611.838 ms
+The server3 base ot time is 538.244 ms
+The server0 base ot time is 574.957 ms
+The server2 base ot time is 657.627 ms
+The server1 base ot time is 589.777 ms
+The server7 base ot time is 660.154 ms
+The server6 base ot time is 684.438 ms
+The server 0oprf2 time is 55.3829 ms
+The server 0 base ot time is 433.137 ms
+The server 7oprf2 time is 80.2688 ms
+The server 7 base ot time is 435.292 ms
+sum_center is2268529211008533250
+sum_leader is : 16178214862701021969
+i is0
+XXXXXXXXXbase ots libote2 is 433.137
+i is1
+XXXXXXXXXbase ots libote2 is 433.137
+i is2
+XXXXXXXXXbase ots libote2 is 433.137
+i is3
+XXXXXXXXXbase ots libote2 is 433.137
+i is4
+XXXXXXXXXbase ots libote2 is 433.137
+i is5
+XXXXXXXXXbase ots libote2 is 433.137
+i is6
+XXXXXXXXXbase ots libote2 is 433.137
+i is7
+XXXXXXXXXbase ots libote2 is 868.429
+the final oprf2 is 67.8258
+the final base ots libote is 616.798
+the final base ots libote2 is 434.214
+the contexts[0].times.psm time is 1225.66
+the contexts[n-1].times.psm time is 1215.23
+Time for vrf 0 ms
+Time for OPRF1 43.521 ms
+Time for OPRF2 67.8258 ms
+Time for hint computation 0.0916997 ms
+Timing for PSM 1220.45 ms
+Total runtime 1220.52 ms
+Total runtime w/o base OTs:169.436 ms
+--- End Run 11 Server ---
+
+--- SUCCESSFUL Run 12 (Attempt 14) Server Output (PID: 672611, Exit: 0) ---
+server_seq:1 2 3 0 4 7 5 6 
+The server2 base ot time is 628.905 ms
+The server4 base ot time is 628.365 ms
+The server3 base ot time is 653.032 ms
+The server6 base ot time is 592.707 ms
+The server5 base ot time is 611.309 ms
+The server1 base ot time is 611.31 ms
+The server7 base ot time is 630.793 ms
+The server0 base ot time is 659.51 ms
+The server 0oprf2 time is 100.055 ms
+The server 0 base ot time is 432.455 ms
+The server 7oprf2 time is 112.038 ms
+The server 7 base ot time is 432.645 ms
+sum_leader is : 5305524862376820887
+sum_center is13141219211332734332
+i is0
+XXXXXXXXXbase ots libote2 is 432.455
+i is1
+XXXXXXXXXbase ots libote2 is 432.455
+i is2
+XXXXXXXXXbase ots libote2 is 432.455
+i is3
+XXXXXXXXXbase ots libote2 is 432.455
+i is4
+XXXXXXXXXbase ots libote2 is 432.455
+i is5
+XXXXXXXXXbase ots libote2 is 432.455
+i is6
+XXXXXXXXXbase ots libote2 is 432.455
+i is7
+XXXXXXXXXbase ots libote2 is 865.1
+the final oprf2 is 106.046
+the final base ots libote is 626.991
+the final base ots libote2 is 432.55
+the contexts[0].times.psm time is 1243.33
+the contexts[n-1].times.psm time is 1245.01
+Time for vrf 0 ms
+Time for OPRF1 39.4305 ms
+Time for OPRF2 106.046 ms
+Time for hint computation 0.0709972 ms
+Timing for PSM 1244.17 ms
+Total runtime 1244.26 ms
+Total runtime w/o base OTs:184.627 ms
+--- End Run 12 Server ---
+
+--- SUCCESSFUL Run 13 (Attempt 15) Server Output (PID: 673211, Exit: 0) ---
+server_seq:1 2 7 3 4 5 6 0 
+The server4 base ot time is 589.758 ms
+The server0 base ot time is 593.228 ms
+The server2 base ot time is 667.087 ms
+The server1 base ot time is 540.215 ms
+The server5 base ot time is 584.945 ms
+The server3 base ot time is 597.176 ms
+The server7 base ot time is 668.035 ms
+The server6 base ot time is 623.797 ms
+The server 0oprf2 time is 43.5669 ms
+The server 0 base ot time is 432.44 ms
+The server 7oprf2 time is 103.743 ms
+The server 7 base ot time is 432.547 ms
+sum_center is551810469156048641
+sum_leader is : 17894933604553506578
+i is0
+XXXXXXXXXbase ots libote2 is 432.44
+i is1
+XXXXXXXXXbase ots libote2 is 432.44
+i is2
+XXXXXXXXXbase ots libote2 is 432.44
+i is3
+XXXXXXXXXbase ots libote2 is 432.44
+i is4
+XXXXXXXXXbase ots libote2 is 432.44
+i is5
+XXXXXXXXXbase ots libote2 is 432.44
+i is6
+XXXXXXXXXbase ots libote2 is 432.44
+i is7
+XXXXXXXXXbase ots libote2 is 864.987
+the final oprf2 is 73.6548
+the final base ots libote is 608.03
+the final base ots libote2 is 432.493
+the contexts[0].times.psm time is 1245.93
+the contexts[n-1].times.psm time is 1239.55
+Time for vrf 0 ms
+Time for OPRF1 60.9202 ms
+Time for OPRF2 73.6548 ms
+Time for hint computation 0.0654941 ms
+Timing for PSM 1242.74 ms
+Total runtime 1242.8 ms
+Total runtime w/o base OTs:202.213 ms
+--- End Run 13 Server ---
+
+--- SUCCESSFUL Run 14 (Attempt 16) Server Output (PID: 673807, Exit: 0) ---
+server_seq:1 7 2 0 3 4 5 6 
+The server3 base ot time is 655.757 ms
+The server1 base ot time is 670.302 ms
+The server0 base ot time is 632.026 ms
+The server5 base ot time is 637.372 ms
+The server2 base ot time is 677.451 ms
+The server7 base ot time is 634.648 ms
+The server6 base ot time is 683.53 ms
+The server4 base ot time is 698.874 ms
+The server 7oprf2 time is 124.861 ms
+The server 7 base ot time is 434.31 ms
+The server 0oprf2 time is 129.758 ms
+The server 0 base ot time is 432.453 ms
+sum_leader is : 14303184766897723236
+sum_center is4143559306811831983
+i is0
+XXXXXXXXXbase ots libote2 is 432.453
+i is1
+XXXXXXXXXbase ots libote2 is 432.453
+i is2
+XXXXXXXXXbase ots libote2 is 432.453
+i is3
+XXXXXXXXXbase ots libote2 is 432.453
+i is4
+XXXXXXXXXbase ots libote2 is 432.453
+i is5
+XXXXXXXXXbase ots libote2 is 432.453
+i is6
+XXXXXXXXXbase ots libote2 is 432.453
+i is7
+XXXXXXXXXbase ots libote2 is 866.764
+the final oprf2 is 127.31
+the final base ots libote is 661.245
+the final base ots libote2 is 433.382
+the contexts[0].times.psm time is 1278.51
+the contexts[n-1].times.psm time is 1279.51
+Time for vrf 0 ms
+Time for OPRF1 18.1745 ms
+Time for OPRF2 127.31 ms
+Time for hint computation 0.0836314 ms
+Timing for PSM 1279.01 ms
+Total runtime 1279.08 ms
+Total runtime w/o base OTs:184.382 ms
+--- End Run 14 Server ---
+
+--- SUCCESSFUL Run 15 (Attempt 17) Server Output (PID: 674398, Exit: 0) ---
+server_seq:1 2 3 4 5 7 6 0 
+The server3 base ot time is 646.438 ms
+The server0 base ot time is 498.397 ms
+The server1 base ot time is 666.288 ms
+The server7 base ot time is 586.829 ms
+The server6 base ot time is 671.857 ms
+The server4 base ot time is 617.014 ms
+The server2 base ot time is 638.418 ms
+The server5 base ot time is 606.496 ms
+The server 7oprf2 time is 48.1598 ms
+The server 7 base ot time is 434.005 ms
+The server 0oprf2 time is 149.078 ms
+The server 0 base ot time is 434.489 ms
+sum_leader is : 16783507346949012661
+sum_center is1663236726760542558
+i is0
+XXXXXXXXXbase ots libote2 is 434.489
+i is1
+XXXXXXXXXbase ots libote2 is 434.489
+i is2
+XXXXXXXXXbase ots libote2 is 434.489
+i is3
+XXXXXXXXXbase ots libote2 is 434.489
+i is4
+XXXXXXXXXbase ots libote2 is 434.489
+i is5
+XXXXXXXXXbase ots libote2 is 434.489
+i is6
+XXXXXXXXXbase ots libote2 is 434.489
+i is7
+XXXXXXXXXbase ots libote2 is 868.494
+the final oprf2 is 98.6188
+the final base ots libote is 616.467
+the final base ots libote2 is 434.247
+the contexts[0].times.psm time is 1291.6
+the contexts[n-1].times.psm time is 1300.12
+Time for vrf 0 ms
+Time for OPRF1 56.2123 ms
+Time for OPRF2 98.6188 ms
+Time for hint computation 0.0659955 ms
+Timing for PSM 1295.86 ms
+Total runtime 1295.92 ms
+Total runtime w/o base OTs:245.147 ms
+--- End Run 15 Server ---
+
+--- SUCCESSFUL Run 16 (Attempt 18) Server Output (PID: 674998, Exit: 0) ---
+server_seq:7 1 2 3 4 5 6 0 
+The server1 base ot time is 609.855 ms
+The server5 base ot time is 516.321 ms
+The server4 base ot time is 633.105 ms
+The server2 base ot time is 644.184 ms
+The server3 base ot time is 647.467 ms
+The server0 base ot time is 660.764 ms
+The server7 base ot time is 584.382 ms
+The server6 base ot time is 655.599 ms
+The server 7oprf2 time is 88.4367 ms
+The server 7 base ot time is 441.512 ms
+The server 0oprf2 time is 221.661 ms
+The server 0 base ot time is 433.776 ms
+sum_leader is : 10754219901496401977
+sum_center is7692524172213153242
+i is0
+XXXXXXXXXbase ots libote2 is 433.776
+i is1
+XXXXXXXXXbase ots libote2 is 433.776
+i is2
+XXXXXXXXXbase ots libote2 is 433.776
+i is3
+XXXXXXXXXbase ots libote2 is 433.776
+i is4
+XXXXXXXXXbase ots libote2 is 433.776
+i is5
+XXXXXXXXXbase ots libote2 is 433.776
+i is6
+XXXXXXXXXbase ots libote2 is 433.776
+i is7
+XXXXXXXXXbase ots libote2 is 875.287
+the final oprf2 is 155.049
+the final base ots libote is 618.96
+the final base ots libote2 is 437.644
+the contexts[0].times.psm time is 1383.56
+the contexts[n-1].times.psm time is 1391.46
+Time for vrf 0 ms
+Time for OPRF1 35.2314 ms
+Time for OPRF2 155.049 ms
+Time for hint computation 0.0755291 ms
+Timing for PSM 1387.51 ms
+Total runtime 1387.58 ms
+Total runtime w/o base OTs:330.909 ms
+--- End Run 16 Server ---
+
+--- SUCCESSFUL Run 17 (Attempt 19) Server Output (PID: 675583, Exit: 0) ---
+server_seq:1 2 0 7 3 4 5 6 
+The server6 base ot time is 640.78 ms
+The server2 base ot time is 537.013 ms
+The server1 base ot time is 624.93 ms
+The server3 base ot time is 665.911 ms
+The server0 base ot time is 643.394 ms
+The server7 base ot time is 651.454 ms
+The server4 base ot time is 651.478 ms
+The server5 base ot time is 606.456 ms
+The server 0oprf2 time is 32.1868 ms
+The server 0 base ot time is 431.681 ms
+The server 7oprf2 time is 45.1328 ms
+The server 7 base ot time is 434.796 ms
+sum_leader is : 1641073929969681166
+sum_center is16805670143739874053
+i is0
+XXXXXXXXXbase ots libote2 is 431.681
+i is1
+XXXXXXXXXbase ots libote2 is 431.681
+i is2
+XXXXXXXXXbase ots libote2 is 431.681
+i is3
+XXXXXXXXXbase ots libote2 is 431.681
+i is4
+XXXXXXXXXbase ots libote2 is 431.681
+i is5
+XXXXXXXXXbase ots libote2 is 431.681
+i is6
+XXXXXXXXXbase ots libote2 is 431.681
+i is7
+XXXXXXXXXbase ots libote2 is 866.477
+the final oprf2 is 38.6598
+the final base ots libote is 627.677
+the final base ots libote2 is 433.239
+the contexts[0].times.psm time is 1190.65
+the contexts[n-1].times.psm time is 1191.83
+Time for vrf 0 ms
+Time for OPRF1 46.4801 ms
+Time for OPRF2 38.6598 ms
+Time for hint computation 0.0875004 ms
+Timing for PSM 1191.24 ms
+Total runtime 1191.33 ms
+Total runtime w/o base OTs:130.327 ms
+--- End Run 17 Server ---
+
+--- SUCCESSFUL Run 18 (Attempt 20) Server Output (PID: 676188, Exit: 0) ---
+server_seq:1 2 7 3 0 4 5 6 
+The server2 base ot time is 616.036 ms
+The server4 base ot time is 621.844 ms
+The server3 base ot time is 531.996 ms
+The server6 base ot time is 551.998 ms
+The server1 base ot time is 607.224 ms
+The server5 base ot time is 642.036 ms
+The server7 base ot time is 683.962 ms
+The server0 base ot time is 667.419 ms
+The server 7oprf2 time is 79.0028 ms
+The server 7 base ot time is 435.343 ms
+The server 0oprf2 time is 114.915 ms
+The server 0 base ot time is 433.654 ms
+sum_leader is : 11112129969830381649
+sum_center is7334614103879173570
+i is0
+XXXXXXXXXbase ots libote2 is 433.654
+i is1
+XXXXXXXXXbase ots libote2 is 433.654
+i is2
+XXXXXXXXXbase ots libote2 is 433.654
+i is3
+XXXXXXXXXbase ots libote2 is 433.654
+i is4
+XXXXXXXXXbase ots libote2 is 433.654
+i is5
+XXXXXXXXXbase ots libote2 is 433.654
+i is6
+XXXXXXXXXbase ots libote2 is 433.654
+i is7
+XXXXXXXXXbase ots libote2 is 868.997
+the final oprf2 is 96.9588
+the final base ots libote is 615.314
+the final base ots libote2 is 434.498
+the contexts[0].times.psm time is 1263.27
+the contexts[n-1].times.psm time is 1271.11
+Time for vrf 0 ms
+Time for OPRF1 53.4196 ms
+Time for OPRF2 96.9588 ms
+Time for hint computation 0.0675834 ms
+Timing for PSM 1267.19 ms
+Total runtime 1267.24 ms
+Total runtime w/o base OTs:217.377 ms
+--- End Run 18 Server ---
+
+--- SUCCESSFUL Run 19 (Attempt 21) Server Output (PID: 676788, Exit: 0) ---
+server_seq:1 2 0 3 7 4 5 6 
+The server7 base ot time is 643.676 ms
+The server2 base ot time is 655.071 ms
+The server3 base ot time is 612.42 ms
+The server0 base ot time is 596.74 ms
+The server5 base ot time is 574.406 ms
+The server1 base ot time is 623.173 ms
+The server6 base ot time is 597.601 ms
+The server4 base ot time is 611.384 ms
+The server 0oprf2 time is 97.3602 ms
+The server 0 base ot time is 434.168 ms
+The server 7oprf2 time is 134.83 ms
+The server 7 base ot time is 433.281 ms
+sum_leader is : 9780869725371410060
+sum_center is8665874348338145159
+i is0
+XXXXXXXXXbase ots libote2 is 434.168
+i is1
+XXXXXXXXXbase ots libote2 is 434.168
+i is2
+XXXXXXXXXbase ots libote2 is 434.168
+i is3
+XXXXXXXXXbase ots libote2 is 434.168
+i is4
+XXXXXXXXXbase ots libote2 is 434.168
+i is5
+XXXXXXXXXbase ots libote2 is 434.168
+i is6
+XXXXXXXXXbase ots libote2 is 434.168
+i is7
+XXXXXXXXXbase ots libote2 is 867.449
+the final oprf2 is 116.095
+the final base ots libote is 614.309
+the final base ots libote2 is 433.724
+the contexts[0].times.psm time is 1266.81
+the contexts[n-1].times.psm time is 1269.79
+Time for vrf 0 ms
+Time for OPRF1 61.3357 ms
+Time for OPRF2 116.095 ms
+Time for hint computation 0.0867673 ms
+Timing for PSM 1268.3 ms
+Total runtime 1268.41 ms
+Total runtime w/o base OTs:220.269 ms
+--- End Run 19 Server ---
+
+--- SUCCESSFUL Run 20 (Attempt 22) Server Output (PID: 677373, Exit: 0) ---
+server_seq:0 7 1 2 3 4 5 6 
+The server7 base ot time is 625.957 ms
+The server4 base ot time is 564.113 ms
+The server3 base ot time is 637.66 ms
+The server1 base ot time is 609.341 ms
+The server2 base ot time is 628.495 ms
+The server5 base ot time is 632.855 ms
+The server0 base ot time is 675.305 ms
+The server6 base ot time is 596.287 ms
+The server 7oprf2 time is 139.452 ms
+The server 7 base ot time is 433.456 ms
+The server 0oprf2 time is 182.371 ms
+The server 0 base ot time is 444.179 ms
+sum_leader is : 5550799383356374882
+sum_center is12895944690353180337
+i is0
+XXXXXXXXXbase ots libote2 is 444.179
+i is1
+XXXXXXXXXbase ots libote2 is 444.179
+i is2
+XXXXXXXXXbase ots libote2 is 444.179
+i is3
+XXXXXXXXXbase ots libote2 is 444.179
+i is4
+XXXXXXXXXbase ots libote2 is 444.179
+i is5
+XXXXXXXXXbase ots libote2 is 444.179
+i is6
+XXXXXXXXXbase ots libote2 is 444.179
+i is7
+XXXXXXXXXbase ots libote2 is 877.635
+the final oprf2 is 160.912
+the final base ots libote is 621.252
+the final base ots libote2 is 438.817
+the contexts[0].times.psm time is 1344.56
+the contexts[n-1].times.psm time is 1354.21
+Time for vrf 0 ms
+Time for OPRF1 40.1928 ms
+Time for OPRF2 160.912 ms
+Time for hint computation 0.0589699 ms
+Timing for PSM 1349.39 ms
+Total runtime 1349.44 ms
+Total runtime w/o base OTs:289.32 ms
+--- End Run 20 Server ---

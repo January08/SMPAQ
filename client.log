@@ -1,0 +1,629 @@
+--- Script Started: 2025年 04月 21日 星期一 17:01:01 CST ---
+
+--- SUCCESSFUL Run 1 (Attempt 1) Client Output (PID: 664948, Exit: 0) ---
+求和完成: Center Sum = 3311014883039593308, Leader Sum = 15135729190669961911, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 493.031
+i is1
+XXXXXXXXXbase ots libote2 is 493.031
+i is2
+XXXXXXXXXbase ots libote2 is 493.031
+i is3
+XXXXXXXXXbase ots libote2 is 493.031
+i is4
+XXXXXXXXXbase ots libote2 is 493.031
+i is5
+XXXXXXXXXbase ots libote2 is 493.031
+i is6
+XXXXXXXXXbase ots libote2 is 493.031
+i is7
+XXXXXXXXXbase ots libote2 is 944.258
+the final oprf2 is 0.896499
+the final base ots libote is 670.116
+the final base ots libote2 is 472.129
+the contexts[0].times.psm time is 1210.64
+the contexts[n-1].times.psm time is 1210.59
+Time for OPRF1 3.66585 ms
+Time for OPRF2 0.896499 ms
+Time for hint computation 0.00208612 ms
+Timing for PSM 1210.61 ms
+Total runtime 1210.62 ms
+Total runtime w/o base OTs:68.367 ms
+--- End Run 1 Client ---
+
+--- FAILED Attempt 2 Client Output (PID: 665551, Exit: 139) ---
+Connect failed due to timeout!
+--- End FAILED Attempt 2 Client ---
+
+--- SUCCESSFUL Run 2 (Attempt 3) Client Output (PID: 666099, Exit: 0) ---
+求和完成: Center Sum = 13325350706129850722, Leader Sum = 5121393367579704497, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 583.609
+i is1
+XXXXXXXXXbase ots libote2 is 583.609
+i is2
+XXXXXXXXXbase ots libote2 is 583.609
+i is3
+XXXXXXXXXbase ots libote2 is 583.609
+i is4
+XXXXXXXXXbase ots libote2 is 583.609
+i is5
+XXXXXXXXXbase ots libote2 is 583.609
+i is6
+XXXXXXXXXbase ots libote2 is 583.609
+i is7
+XXXXXXXXXbase ots libote2 is 1004.43
+the final oprf2 is 8.81257
+the final base ots libote is 659.432
+the final base ots libote2 is 502.213
+the contexts[0].times.psm time is 1343.42
+the contexts[n-1].times.psm time is 1342.62
+Time for OPRF1 5.63048 ms
+Time for OPRF2 8.81257 ms
+Time for hint computation 0.00237325 ms
+Timing for PSM 1343.02 ms
+Total runtime 1343.03 ms
+Total runtime w/o base OTs:181.377 ms
+--- End Run 2 Client ---
+
+--- SUCCESSFUL Run 3 (Attempt 4) Client Output (PID: 666699, Exit: 0) ---
+求和完成: Center Sum = 11343922360504527453, Leader Sum = 7102821713205027766, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 497.405
+i is1
+XXXXXXXXXbase ots libote2 is 497.405
+i is2
+XXXXXXXXXbase ots libote2 is 497.405
+i is3
+XXXXXXXXXbase ots libote2 is 497.405
+i is4
+XXXXXXXXXbase ots libote2 is 497.405
+i is5
+XXXXXXXXXbase ots libote2 is 497.405
+i is6
+XXXXXXXXXbase ots libote2 is 497.405
+i is7
+XXXXXXXXXbase ots libote2 is 1024.23
+the final oprf2 is 1.24053
+the final base ots libote is 670.218
+the final base ots libote2 is 512.117
+the contexts[0].times.psm time is 1261.06
+the contexts[n-1].times.psm time is 1260.52
+Time for OPRF1 0.536538 ms
+Time for OPRF2 1.24053 ms
+Time for hint computation 0.00202438 ms
+Timing for PSM 1260.79 ms
+Total runtime 1260.79 ms
+Total runtime w/o base OTs:78.4526 ms
+--- End Run 3 Client ---
+
+--- SUCCESSFUL Run 4 (Attempt 5) Client Output (PID: 667296, Exit: 0) ---
+求和完成: Center Sum = 10322644485775775465, Leader Sum = 8124099587933779754, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 433.018
+i is1
+XXXXXXXXXbase ots libote2 is 433.018
+i is2
+XXXXXXXXXbase ots libote2 is 433.018
+i is3
+XXXXXXXXXbase ots libote2 is 433.018
+i is4
+XXXXXXXXXbase ots libote2 is 433.018
+i is5
+XXXXXXXXXbase ots libote2 is 433.018
+i is6
+XXXXXXXXXbase ots libote2 is 433.018
+i is7
+XXXXXXXXXbase ots libote2 is 981.581
+the final oprf2 is 2.36071
+the final base ots libote is 666.033
+the final base ots libote2 is 490.791
+the contexts[0].times.psm time is 1291.75
+the contexts[n-1].times.psm time is 1291.3
+Time for OPRF1 7.51083 ms
+Time for OPRF2 2.36071 ms
+Time for hint computation 0.00181438 ms
+Timing for PSM 1291.52 ms
+Total runtime 1291.53 ms
+Total runtime w/o base OTs:134.699 ms
+--- End Run 4 Client ---
+
+--- SUCCESSFUL Run 5 (Attempt 6) Client Output (PID: 667889, Exit: 0) ---
+求和完成: Center Sum = 17509358638604390728, Leader Sum = 937385435105164491, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 555.815
+i is1
+XXXXXXXXXbase ots libote2 is 555.815
+i is2
+XXXXXXXXXbase ots libote2 is 555.815
+i is3
+XXXXXXXXXbase ots libote2 is 555.815
+i is4
+XXXXXXXXXbase ots libote2 is 555.815
+i is5
+XXXXXXXXXbase ots libote2 is 555.815
+i is6
+XXXXXXXXXbase ots libote2 is 555.815
+i is7
+XXXXXXXXXbase ots libote2 is 1028.3
+the final oprf2 is 1.15613
+the final base ots libote is 666.103
+the final base ots libote2 is 514.151
+the contexts[0].times.psm time is 1306.34
+the contexts[n-1].times.psm time is 1305.91
+Time for OPRF1 0.529894 ms
+Time for OPRF2 1.15613 ms
+Time for hint computation 0.00180662 ms
+Timing for PSM 1306.13 ms
+Total runtime 1306.13 ms
+Total runtime w/o base OTs:125.873 ms
+--- End Run 5 Client ---
+
+--- SUCCESSFUL Run 6 (Attempt 7) Client Output (PID: 668489, Exit: 0) ---
+求和完成: Center Sum = 18184657024873588268, Leader Sum = 262087048835966951, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 466.629
+i is1
+XXXXXXXXXbase ots libote2 is 466.629
+i is2
+XXXXXXXXXbase ots libote2 is 466.629
+i is3
+XXXXXXXXXbase ots libote2 is 466.629
+i is4
+XXXXXXXXXbase ots libote2 is 466.629
+i is5
+XXXXXXXXXbase ots libote2 is 466.629
+i is6
+XXXXXXXXXbase ots libote2 is 466.629
+i is7
+XXXXXXXXXbase ots libote2 is 1054.73
+the final oprf2 is 0.956541
+the final base ots libote is 613.889
+the final base ots libote2 is 527.363
+the contexts[0].times.psm time is 1308.06
+the contexts[n-1].times.psm time is 1307.59
+Time for OPRF1 30.6611 ms
+Time for OPRF2 0.956541 ms
+Time for hint computation 0.00193863 ms
+Timing for PSM 1307.82 ms
+Total runtime 1307.83 ms
+Total runtime w/o base OTs:166.572 ms
+--- End Run 6 Client ---
+
+--- FAILED Attempt 8 Client Output (PID: 669075, Exit: 139) ---
+Connect failed due to timeout!
+--- End FAILED Attempt 8 Client ---
+
+--- SUCCESSFUL Run 7 (Attempt 9) Client Output (PID: 669642, Exit: 0) ---
+求和完成: Center Sum = 9494864898607991924, Leader Sum = 8951879175101563295, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 475.937
+i is1
+XXXXXXXXXbase ots libote2 is 475.937
+i is2
+XXXXXXXXXbase ots libote2 is 475.937
+i is3
+XXXXXXXXXbase ots libote2 is 475.937
+i is4
+XXXXXXXXXbase ots libote2 is 475.937
+i is5
+XXXXXXXXXbase ots libote2 is 475.937
+i is6
+XXXXXXXXXbase ots libote2 is 475.937
+i is7
+XXXXXXXXXbase ots libote2 is 931.688
+the final oprf2 is 0.86743
+the final base ots libote is 675.586
+the final base ots libote2 is 465.844
+the contexts[0].times.psm time is 1200.04
+the contexts[n-1].times.psm time is 1199.21
+Time for OPRF1 0.601644 ms
+Time for OPRF2 0.86743 ms
+Time for hint computation 0.00211975 ms
+Timing for PSM 1199.62 ms
+Total runtime 1199.63 ms
+Total runtime w/o base OTs:58.1939 ms
+--- End Run 7 Client ---
+
+--- SUCCESSFUL Run 8 (Attempt 10) Client Output (PID: 670242, Exit: 0) ---
+求和完成: Center Sum = 4188457847305241501, Leader Sum = 14258286226404313718, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 444.449
+i is1
+XXXXXXXXXbase ots libote2 is 444.449
+i is2
+XXXXXXXXXbase ots libote2 is 444.449
+i is3
+XXXXXXXXXbase ots libote2 is 444.449
+i is4
+XXXXXXXXXbase ots libote2 is 444.449
+i is5
+XXXXXXXXXbase ots libote2 is 444.449
+i is6
+XXXXXXXXXbase ots libote2 is 444.449
+i is7
+XXXXXXXXXbase ots libote2 is 935.954
+the final oprf2 is 1.12657
+the final base ots libote is 662.537
+the final base ots libote2 is 467.977
+the contexts[0].times.psm time is 1221.21
+the contexts[n-1].times.psm time is 1220.98
+Time for OPRF1 5.90939 ms
+Time for OPRF2 1.12657 ms
+Time for hint computation 0.001898 ms
+Timing for PSM 1221.1 ms
+Total runtime 1221.1 ms
+Total runtime w/o base OTs:90.5811 ms
+--- End Run 8 Client ---
+
+--- SUCCESSFUL Run 9 (Attempt 11) Client Output (PID: 670827, Exit: 0) ---
+求和完成: Center Sum = 15318667384076139645, Leader Sum = 3128076689633415574, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 476.926
+i is1
+XXXXXXXXXbase ots libote2 is 476.926
+i is2
+XXXXXXXXXbase ots libote2 is 476.926
+i is3
+XXXXXXXXXbase ots libote2 is 476.926
+i is4
+XXXXXXXXXbase ots libote2 is 476.926
+i is5
+XXXXXXXXXbase ots libote2 is 476.926
+i is6
+XXXXXXXXXbase ots libote2 is 476.926
+i is7
+XXXXXXXXXbase ots libote2 is 1011.45
+the final oprf2 is 1.07713
+the final base ots libote is 665.025
+the final base ots libote2 is 505.724
+the contexts[0].times.psm time is 1284.72
+the contexts[n-1].times.psm time is 1283.84
+Time for OPRF1 3.59889 ms
+Time for OPRF2 1.07713 ms
+Time for hint computation 0.002001 ms
+Timing for PSM 1284.28 ms
+Total runtime 1284.29 ms
+Total runtime w/o base OTs:113.534 ms
+--- End Run 9 Client ---
+
+--- SUCCESSFUL Run 10 (Attempt 12) Client Output (PID: 671434, Exit: 0) ---
+求和完成: Center Sum = 6713860913300246539, Leader Sum = 11732883160409308680, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 520.424
+i is1
+XXXXXXXXXbase ots libote2 is 520.424
+i is2
+XXXXXXXXXbase ots libote2 is 520.424
+i is3
+XXXXXXXXXbase ots libote2 is 520.424
+i is4
+XXXXXXXXXbase ots libote2 is 520.424
+i is5
+XXXXXXXXXbase ots libote2 is 520.424
+i is6
+XXXXXXXXXbase ots libote2 is 520.424
+i is7
+XXXXXXXXXbase ots libote2 is 963.385
+the final oprf2 is 1.07337
+the final base ots libote is 656.004
+the final base ots libote2 is 481.692
+the contexts[0].times.psm time is 1267.32
+the contexts[n-1].times.psm time is 1265.74
+Time for OPRF1 2.12402 ms
+Time for OPRF2 1.07337 ms
+Time for hint computation 0.00207362 ms
+Timing for PSM 1266.53 ms
+Total runtime 1266.53 ms
+Total runtime w/o base OTs:128.832 ms
+--- End Run 10 Client ---
+
+--- SUCCESSFUL Run 11 (Attempt 13) Client Output (PID: 672036, Exit: 0) ---
+求和完成: Center Sum = 2268529211008533250, Leader Sum = 16178214862701021969, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 460.265
+i is1
+XXXXXXXXXbase ots libote2 is 460.265
+i is2
+XXXXXXXXXbase ots libote2 is 460.265
+i is3
+XXXXXXXXXbase ots libote2 is 460.265
+i is4
+XXXXXXXXXbase ots libote2 is 460.265
+i is5
+XXXXXXXXXbase ots libote2 is 460.265
+i is6
+XXXXXXXXXbase ots libote2 is 460.265
+i is7
+XXXXXXXXXbase ots libote2 is 967.172
+the final oprf2 is 1.27315
+the final base ots libote is 653.806
+the final base ots libote2 is 483.586
+the contexts[0].times.psm time is 1222.63
+the contexts[n-1].times.psm time is 1221.69
+Time for OPRF1 0.656753 ms
+Time for OPRF2 1.27315 ms
+Time for hint computation 0.00215188 ms
+Timing for PSM 1222.16 ms
+Total runtime 1222.16 ms
+Total runtime w/o base OTs:84.7681 ms
+--- End Run 11 Client ---
+
+--- SUCCESSFUL Run 12 (Attempt 14) Client Output (PID: 672621, Exit: 0) ---
+求和完成: Center Sum = 13141219211332734332, Leader Sum = 5305524862376820887, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 505.54
+i is1
+XXXXXXXXXbase ots libote2 is 505.54
+i is2
+XXXXXXXXXbase ots libote2 is 505.54
+i is3
+XXXXXXXXXbase ots libote2 is 505.54
+i is4
+XXXXXXXXXbase ots libote2 is 505.54
+i is5
+XXXXXXXXXbase ots libote2 is 505.54
+i is6
+XXXXXXXXXbase ots libote2 is 505.54
+i is7
+XXXXXXXXXbase ots libote2 is 1024.43
+the final oprf2 is 0.812043
+the final base ots libote is 658.704
+the final base ots libote2 is 512.216
+the contexts[0].times.psm time is 1242.94
+the contexts[n-1].times.psm time is 1242.08
+Time for OPRF1 2.03726 ms
+Time for OPRF2 0.812043 ms
+Time for hint computation 0.00201062 ms
+Timing for PSM 1242.51 ms
+Total runtime 1242.51 ms
+Total runtime w/o base OTs:71.5873 ms
+--- End Run 12 Client ---
+
+--- SUCCESSFUL Run 13 (Attempt 15) Client Output (PID: 673221, Exit: 0) ---
+求和完成: Center Sum = 551810469156048641, Leader Sum = 17894933604553506578, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 466.096
+i is1
+XXXXXXXXXbase ots libote2 is 466.096
+i is2
+XXXXXXXXXbase ots libote2 is 466.096
+i is3
+XXXXXXXXXbase ots libote2 is 466.096
+i is4
+XXXXXXXXXbase ots libote2 is 466.096
+i is5
+XXXXXXXXXbase ots libote2 is 466.096
+i is6
+XXXXXXXXXbase ots libote2 is 466.096
+i is7
+XXXXXXXXXbase ots libote2 is 974.426
+the final oprf2 is 0.863521
+the final base ots libote is 643.776
+the final base ots libote2 is 487.213
+the contexts[0].times.psm time is 1228.12
+the contexts[n-1].times.psm time is 1227.66
+Time for OPRF1 4.78078 ms
+Time for OPRF2 0.863521 ms
+Time for hint computation 0.002632 ms
+Timing for PSM 1227.89 ms
+Total runtime 1227.89 ms
+Total runtime w/o base OTs:96.9003 ms
+--- End Run 13 Client ---
+
+--- SUCCESSFUL Run 14 (Attempt 16) Client Output (PID: 673817, Exit: 0) ---
+求和完成: Center Sum = 4143559306811831983, Leader Sum = 14303184766897723236, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 535.049
+i is1
+XXXXXXXXXbase ots libote2 is 535.049
+i is2
+XXXXXXXXXbase ots libote2 is 535.049
+i is3
+XXXXXXXXXbase ots libote2 is 535.049
+i is4
+XXXXXXXXXbase ots libote2 is 535.049
+i is5
+XXXXXXXXXbase ots libote2 is 535.049
+i is6
+XXXXXXXXXbase ots libote2 is 535.049
+i is7
+XXXXXXXXXbase ots libote2 is 1065.75
+the final oprf2 is 1.11012
+the final base ots libote is 661.987
+the final base ots libote2 is 532.877
+the contexts[0].times.psm time is 1278.86
+the contexts[n-1].times.psm time is 1278.32
+Time for OPRF1 14.0221 ms
+Time for OPRF2 1.11012 ms
+Time for hint computation 0.00206175 ms
+Timing for PSM 1278.59 ms
+Total runtime 1278.59 ms
+Total runtime w/o base OTs:83.7264 ms
+--- End Run 14 Client ---
+
+--- SUCCESSFUL Run 15 (Attempt 17) Client Output (PID: 674408, Exit: 0) ---
+求和完成: Center Sum = 1663236726760542558, Leader Sum = 16783507346949012661, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 571.22
+i is1
+XXXXXXXXXbase ots libote2 is 571.22
+i is2
+XXXXXXXXXbase ots libote2 is 571.22
+i is3
+XXXXXXXXXbase ots libote2 is 571.22
+i is4
+XXXXXXXXXbase ots libote2 is 571.22
+i is5
+XXXXXXXXXbase ots libote2 is 571.22
+i is6
+XXXXXXXXXbase ots libote2 is 571.22
+i is7
+XXXXXXXXXbase ots libote2 is 1026.64
+the final oprf2 is 1.08052
+the final base ots libote is 642.6
+the final base ots libote2 is 513.322
+the contexts[0].times.psm time is 1281.8
+the contexts[n-1].times.psm time is 1281.32
+Time for OPRF1 9.23339 ms
+Time for OPRF2 1.08052 ms
+Time for hint computation 0.001522 ms
+Timing for PSM 1281.56 ms
+Total runtime 1281.56 ms
+Total runtime w/o base OTs:125.638 ms
+--- End Run 15 Client ---
+
+--- SUCCESSFUL Run 16 (Attempt 18) Client Output (PID: 675008, Exit: 0) ---
+求和完成: Center Sum = 7692524172213153242, Leader Sum = 10754219901496401977, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 629.914
+i is1
+XXXXXXXXXbase ots libote2 is 629.914
+i is2
+XXXXXXXXXbase ots libote2 is 629.914
+i is3
+XXXXXXXXXbase ots libote2 is 629.914
+i is4
+XXXXXXXXXbase ots libote2 is 629.914
+i is5
+XXXXXXXXXbase ots libote2 is 629.914
+i is6
+XXXXXXXXXbase ots libote2 is 629.914
+i is7
+XXXXXXXXXbase ots libote2 is 1137.94
+the final oprf2 is 1.17426
+the final base ots libote is 639.519
+the final base ots libote2 is 568.969
+the contexts[0].times.psm time is 1387.41
+the contexts[n-1].times.psm time is 1386.72
+Time for OPRF1 7.42242 ms
+Time for OPRF2 1.17426 ms
+Time for hint computation 0.00331125 ms
+Timing for PSM 1387.06 ms
+Total runtime 1387.07 ms
+Total runtime w/o base OTs:178.577 ms
+--- End Run 16 Client ---
+
+--- SUCCESSFUL Run 17 (Attempt 19) Client Output (PID: 675605, Exit: 0) ---
+求和完成: Center Sum = 16805670143739874053, Leader Sum = 1641073929969681166, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 453.301
+i is1
+XXXXXXXXXbase ots libote2 is 453.301
+i is2
+XXXXXXXXXbase ots libote2 is 453.301
+i is3
+XXXXXXXXXbase ots libote2 is 453.301
+i is4
+XXXXXXXXXbase ots libote2 is 453.301
+i is5
+XXXXXXXXXbase ots libote2 is 453.301
+i is6
+XXXXXXXXXbase ots libote2 is 453.301
+i is7
+XXXXXXXXXbase ots libote2 is 905.585
+the final oprf2 is 0.939314
+the final base ots libote is 666.243
+the final base ots libote2 is 452.792
+the contexts[0].times.psm time is 1190.72
+the contexts[n-1].times.psm time is 1189.97
+Time for OPRF1 4.18053 ms
+Time for OPRF2 0.939314 ms
+Time for hint computation 0.002153 ms
+Timing for PSM 1190.34 ms
+Total runtime 1190.35 ms
+Total runtime w/o base OTs:71.3094 ms
+--- End Run 17 Client ---
+
+--- SUCCESSFUL Run 18 (Attempt 20) Client Output (PID: 676198, Exit: 0) ---
+求和完成: Center Sum = 7334614103879173570, Leader Sum = 11112129969830381649, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 521.392
+i is1
+XXXXXXXXXbase ots libote2 is 521.392
+i is2
+XXXXXXXXXbase ots libote2 is 521.392
+i is3
+XXXXXXXXXbase ots libote2 is 521.392
+i is4
+XXXXXXXXXbase ots libote2 is 521.392
+i is5
+XXXXXXXXXbase ots libote2 is 521.392
+i is6
+XXXXXXXXXbase ots libote2 is 521.392
+i is7
+XXXXXXXXXbase ots libote2 is 1014.6
+the final oprf2 is 0.934003
+the final base ots libote is 641.746
+the final base ots libote2 is 507.299
+the contexts[0].times.psm time is 1247.47
+the contexts[n-1].times.psm time is 1246.58
+Time for OPRF1 0.863848 ms
+Time for OPRF2 0.934003 ms
+Time for hint computation 0.0015755 ms
+Timing for PSM 1247.02 ms
+Total runtime 1247.03 ms
+Total runtime w/o base OTs:97.9798 ms
+--- End Run 18 Client ---
+
+--- SUCCESSFUL Run 19 (Attempt 21) Client Output (PID: 676798, Exit: 0) ---
+求和完成: Center Sum = 8665874348338145159, Leader Sum = 9780869725371410060, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 521.168
+i is1
+XXXXXXXXXbase ots libote2 is 521.168
+i is2
+XXXXXXXXXbase ots libote2 is 521.168
+i is3
+XXXXXXXXXbase ots libote2 is 521.168
+i is4
+XXXXXXXXXbase ots libote2 is 521.168
+i is5
+XXXXXXXXXbase ots libote2 is 521.168
+i is6
+XXXXXXXXXbase ots libote2 is 521.168
+i is7
+XXXXXXXXXbase ots libote2 is 1061.39
+the final oprf2 is 1.07022
+the final base ots libote is 652.957
+the final base ots libote2 is 530.695
+the contexts[0].times.psm time is 1250.92
+the contexts[n-1].times.psm time is 1250.6
+Time for OPRF1 1.46483 ms
+Time for OPRF2 1.07022 ms
+Time for hint computation 0.001855 ms
+Timing for PSM 1250.76 ms
+Total runtime 1250.76 ms
+Total runtime w/o base OTs:67.1066 ms
+--- End Run 19 Client ---
+
+--- SUCCESSFUL Run 20 (Attempt 22) Client Output (PID: 677383, Exit: 0) ---
+求和完成: Center Sum = 12895944690353180337, Leader Sum = 5550799383356374882, Total Sum = 3603
+i is0
+XXXXXXXXXbase ots libote2 is 605.436
+i is1
+XXXXXXXXXbase ots libote2 is 605.436
+i is2
+XXXXXXXXXbase ots libote2 is 605.436
+i is3
+XXXXXXXXXbase ots libote2 is 605.436
+i is4
+XXXXXXXXXbase ots libote2 is 605.436
+i is5
+XXXXXXXXXbase ots libote2 is 605.436
+i is6
+XXXXXXXXXbase ots libote2 is 605.436
+i is7
+XXXXXXXXXbase ots libote2 is 1150.11
+the final oprf2 is 1.21857
+the final base ots libote is 647.615
+the final base ots libote2 is 575.057
+the contexts[0].times.psm time is 1345
+the contexts[n-1].times.psm time is 1344.27
+Time for OPRF1 2.48617 ms
+Time for OPRF2 1.21857 ms
+Time for hint computation 0.00186138 ms
+Timing for PSM 1344.63 ms
+Total runtime 1344.64 ms
+Total runtime w/o base OTs:121.962 ms
+--- End Run 20 Client ---
