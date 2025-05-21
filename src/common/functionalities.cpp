@@ -12,8 +12,6 @@
 #include "HashingTables/common/hashing.h"
 #include "HashingTables/simple_hashing/simple_hashing.h"
 #include "config.h"
-#include "batch_equality.h"
-#include "equality.h"
 #include <algorithm>
 #include <chrono>
 #include <fstream>
@@ -25,8 +23,6 @@
 #include <unordered_set>
 #include <unordered_map>
 #include <cmath>
-#include "table_opprf.h"
-
 #include <openssl/sha.h>
 #include <string>
 #include <cstdint>
